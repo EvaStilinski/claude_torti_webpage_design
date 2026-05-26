@@ -1,12 +1,12 @@
 /* global React */
 function HoursPanel() {
   const days = [
-    ['Lunes', '7:00 – 20:00'],
-    ['Martes', '7:00 – 20:00'],
-    ['Miércoles', '7:00 – 20:00'],
-    ['Jueves', '7:00 – 20:00'],
-    ['Viernes', '7:00 – 20:00'],
-    ['Sábado', '7:00 – 15:00'],
+    ['Lunes', '7:00 – 14:00'],
+    ['Martes', '7:00 – 14:00'],
+    ['Miércoles', '7:00 – 14:00'],
+    ['Jueves', '7:00 – 14:00'],
+    ['Viernes', '7:00 – 14:00'],
+    ['Sábado', '7:00 – 14:00'],
     ['Domingo', 'Cerrado'],
   ];
 
@@ -21,7 +21,7 @@ function HoursPanel() {
         </div>
         <div className="r-hours__status">
           <span className="r-hours__dot" aria-hidden="true"></span>
-          <span>Abierto ahora · cierra a las 8:00 pm</span>
+          <span>Abierto ahora · cierra a las 2:00 pm</span>
         </div>
       </div>
       <div className="r-hours__right">
