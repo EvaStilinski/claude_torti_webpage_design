@@ -2,7 +2,7 @@
 function DailyBoard() {
   const items = [
     { type: 'Maíz blanco', price: '$28', tag: 'DEL DÍA',  tone: 'gold',  color: '#E8D49A' },
-    { type: 'Maíz azul',   price: '$32', tag: 'NUEVA',    tone: 'chile', color: '#5A6D9C' },
+    { type: 'Maíz amarillo',   price: '$32', tag: 'NUEVA',    tone: 'chile', color: '#5A6D9C' },
     { type: 'Harina',      price: '$30', tag: 'CLÁSICA',  tone: 'navy',  color: '#F4E5C2' },
   ];
   const rotations = [-1.5, 1.2, -0.8];

@@ -35,7 +35,7 @@ function ProductGrid({ products, onOrder }) {
     <section id="tortillas" className="r-grid">
       <div className="r-grid__head">
         <div className="eyebrow">NUESTRAS TORTILLAS</div>
-        <h2>Hechas a mano, todos los días</h2>
+        <h2>Recién hechas, todos los días</h2>
       </div>
       <div className="r-grid__cards">
         {products.map((p) => <ProductCard key={p.id} product={p} onOrder={onOrder} />)}

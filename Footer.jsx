@@ -12,7 +12,7 @@ function Footer() {
           <div>
             <h5>Tortillas</h5>
             <a href="#tortillas">Maíz blanco</a>
-            <a href="#tortillas">Maíz azul</a>
+            <a href="#tortillas">Maíz amarillo</a>
             <a href="#tortillas">Harina</a>
             <a href="#tortillas">Tostadas</a>
           </div>
