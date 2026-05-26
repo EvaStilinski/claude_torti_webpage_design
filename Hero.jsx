@@ -15,12 +15,12 @@ function Hero({ onOrder }) {
         </div>
         <div className="r-hero__meta">
           <span className="r-hero__dot" aria-hidden="true"></span>
-          <span>Abierto ahora · cierra a las 8:00 pm</span>
+          <span>Abierto ahora · cierra a las 2:00 pm</span>
         </div>
       </div>
       <div className="r-hero__art">
         <img src="assets/mascot-photo-transparent.png" alt="Mascota de elote Tortillería Rascón" className="r-hero__mascot"/>
-        <span className="r-hero__sticker">¡Hoy: maíz azul!</span>
+        <span className="r-hero__sticker">¡Hoy: tortillas de flauta!</span>
       </div>
     </section>
   );
