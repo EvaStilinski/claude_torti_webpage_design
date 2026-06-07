@@ -8,7 +8,7 @@ function Hero({ onOrder }) {
           <span className="r-hero__script">Las mejores</span>
           <span className="r-hero__serif">TORTILLAS</span>
         </h1>
-        <p className="r-hero__sub">Tortillas de maíz nixtamalizado, hechas a mano y entregadas calientitas del comal a tu mesa. Aparta tu pedido en línea y pásalas a recoger.</p>
+        <p className="r-hero__sub">Tortillas de maíz nixtamalizado, hechas todos los días y entregadas calientitas del comal a tu mesa. Aparta tu pedido en línea y pásalas a recoger.</p>
         <div className="r-hero__ctas">
           <button className="btn btn--primary btn--lg" onClick={onOrder}>Aparta tu pedido</button>
           <a className="btn btn--ghost btn--lg" href="#tortillas">Ver tortillas</a>

@@ -40,7 +40,7 @@ function OrderModal({ open, onClose, presetProduct }) {
                 <label>Tipo de tortilla</label>
                 <select value={product} onChange={(e) => setProduct(e.target.value)}>
                   <option>Maíz blanco</option>
-                  <option>Maíz azul</option>
+                  <option>Maíz amarillo</option>
                   <option>Harina</option>
                   <option>Tostadas</option>
                 </select>

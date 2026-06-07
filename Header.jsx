@@ -32,7 +32,7 @@ function Header({ onOrder }) {
           <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.75" strokeLinecap="round" strokeLinejoin="round">
             <path d="M22 16.92V21a1 1 0 0 1-1.1 1A19 19 0 0 1 2 4.1 1 1 0 0 1 3 3h4.09a1 1 0 0 1 1 .75l1 4a1 1 0 0 1-.27 1L7 10a16 16 0 0 0 7 7l1.25-1.83a1 1 0 0 1 1-.27l4 1a1 1 0 0 1 .75 1z"/>
           </svg>
-          <span>614 410 7788</span>
+          <span>614 486 0744</span>
         </a>
         <button className="btn btn--primary" onClick={onOrder}>Aparta tu pedido</button>
       </div>
